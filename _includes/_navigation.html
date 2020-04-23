@@ -7,17 +7,11 @@
 <div id="navigation" class="sticky">
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
-    <li class="name">
-      <h1 class="show-for-small-only">
+    <li class="show-for-small-only name">
+      <p>
         <a href="{{ site.url }}{{ site.baseurl }}"><img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.logo}}" style="height: 48px"> {{ site.title }}</a>
-      </h1>
+      </p>
     </li>
-    <!-- <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}> -->
-<!--     <li class="active">
-      <a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>
-        <img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.logo}}" style="height: 48px"> {{ site.title}}
-      </a>
-    </li> -->
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Menu</span></a></li>
     </ul>
@@ -52,7 +46,7 @@
             {% comment %}   If left side WITHOUT dropdown menu do   {% endcomment %}
             {% if link.dropdown == nil %}
               {% if link.home %}
-               <li{% if link.url == page.url %} class="hide-for-small-only active"{% elsif page.homepage == true and link.url == '/' %} class="hide-for-small-only active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}><img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.logo}}" style="height: 48px"> {{ link.title}}.yml</a></li>
+               <li{% if link.url == page.url %} class="hide-for-small-only active"{% elsif page.homepage == true and link.url == '/' %} class="hide-for-small-only active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}><img src="{{ site.url }}{{ site.baseurl }}/assets/img/{{site.logo}}" style="height: 48px"> {{ link.title}}</a></li>
               <li class="divider"></li>
               {% else %}
               <li{% if link.url == page.url %} class="active"{% elsif page.homepage == true and link.url == '/' %} class="active"{% endif %}><a {% if link.class %}class="{{link.class}}"{% endif %} href="{{ domain }}{{ site.baseurl }}{{ link.url }}"{% if link.url contains 'http' %} target="_blank"{% endif %}>{{ link.title | escape }}</a></li>
