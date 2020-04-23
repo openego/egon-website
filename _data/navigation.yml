@@ -1,6 +1,7 @@
-- title: eGon
+- title: eGo<sup>n</sup>
   url: "/"
   side: left
+  home: True
 
 # - title: News
 #   url: "/news/"
