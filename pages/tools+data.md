@@ -17,7 +17,7 @@ header: no
     <div class="columns tools-data__img">
       <picture>
         <source srcset="../images/Toolchain_web_desktop.svg" media="(min-width: 641px)">
-        <img srcset="../images/Toolchain_web_mobile.svg" alt="Toolchain picture">
+        <img srcset="../images/Toolchain_web_mobile.svg" alt="Toolchain representing the relationship between the various models and applications">
       </picture>
     </div>
   </section>
@@ -53,7 +53,7 @@ header: no
 
   <section class="tools-data__oep row row__wrap">
     <div class="columns medium-3 tools-data__oep-logo">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/OEP_logo.svg" alt="Logo oedb">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/OEP_logo.svg" alt="OpenEnergyPlatform">
     </div>
     <div class="columns medium-9 tools-data__oep-right">
       <div class="row">
