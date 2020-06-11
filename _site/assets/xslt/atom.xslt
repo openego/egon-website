@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Atom Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="https://ego-n.org/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="https://staging.ego-n.org/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="https://ego-n.org/assets/js/modernizr.min.js"></script>
+	<script src="https://staging.ego-n.org/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	
 	
 	
-	<link rel="canonical" href="https://ego-n.org/assets/xslt/atom.xslt">
+	<link rel="canonical" href="https://staging.ego-n.org/assets/xslt/atom.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="Atom Feed (Styled)">
 	<meta property="og:description" content="Open, inter-grid-level and cross-sectoral planning instrument for the optimal use and expansion of the electrical grid and flexibility options in Germany">
-	<meta property="og:url" content="https://ego-n.org/assets/xslt/atom.xslt">
+	<meta property="og:url" content="https://staging.ego-n.org/assets/xslt/atom.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="eGo<sup>n</sup>">
@@ -54,7 +54,7 @@
 
 	
 
-	<link type="text/plain" rel="author" href="https://ego-n.org/humans.txt">
+	<link type="text/plain" rel="author" href="https://staging.ego-n.org/humans.txt">
 
 	
 
@@ -81,7 +81,7 @@
     <ul class="title-area">
       <li class="name">
         <h1 class="">
-          <a href="https://ego-n.org"><img class="top-bar__logo" src="https://ego-n.org/assets/img/logo_egon_top_nav.svg"></a>
+          <a href="https://staging.ego-n.org"><img class="top-bar__logo" src="https://staging.ego-n.org/assets/img/logo_egon_top_nav.svg"></a>
         </h1>
       </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
@@ -100,7 +100,7 @@
             
             
               
-              <li><a  href="https://ego-n.org/tools_data/">Tools &amp; Data</a></li>
+              <li><a  href="https://staging.ego-n.org/tools_data/">Tools &amp; Data</a></li>
               <li class="divider"></li>
               
 
@@ -117,7 +117,7 @@
             
             
               
-              <li><a  href="https://ego-n.org/publications/">Publications</a></li>
+              <li><a  href="https://staging.ego-n.org/publications/">Publications</a></li>
               <li class="divider"></li>
               
 
@@ -134,7 +134,7 @@
             
             
               
-              <li><a  href="https://ego-n.org/partners/">Partners</a></li>
+              <li><a  href="https://staging.ego-n.org/partners/">Partners</a></li>
               <li class="divider"></li>
               
 
@@ -153,8 +153,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="https://ego-n.org/" title="eGo<sup>n</sup> – energy Grid optimization of n flexibilities">
-				<img src="https://ego-n.org/assets/img/logo_egon_top_nav.svg" alt="eGo<sup>n</sup> – energy Grid optimization of n flexibilities">
+			<a id="logo" href="https://staging.ego-n.org/" title="eGo<sup>n</sup> – energy Grid optimization of n flexibilities">
+				<img src="https://staging.ego-n.org/assets/img/logo_egon_top_nav.svg" alt="eGo<sup>n</sup> – energy Grid optimization of n flexibilities">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -230,7 +230,7 @@
       <div id="subfooter">
         <div class="row">
           <div class="columns medium-3 subfooter__logo">
-            <img src="https://ego-n.org/images/eGon_logo_noborder_transbg.svg" alt="egon logo">
+            <img src="https://staging.ego-n.org/images/eGon_logo_noborder_transbg.svg" alt="egon logo">
           </div>
           <div class="columns medium-9 subfooter__links">
             <div id="subfooter-right" class="credits credits--imprint">
@@ -240,7 +240,7 @@
             </div>
             <!-- <section id="subfooter__copyright"  class="small-6 columns credits"> -->
             <div id="subfooter-left"  class="credits">
-              <div class="subfooter-left__icons"> <img src="https://ego-n.org/images/cc.svg" alt="CC" style="height:24px;"> <img src="https://ego-n.org/images/by.svg" alt="BY" style="height:24px;"></div><p class="subfooter-left__text">Content of this webpage - except for the partner logos - is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" class="">CC-BY-4.0</a> conditions</p>
+              <div class="subfooter-left__icons"> <img src="https://staging.ego-n.org/images/cc.svg" alt="CC" style="height:24px;"> <img src="https://staging.ego-n.org/images/by.svg" alt="BY" style="height:24px;"></div><p class="subfooter-left__text">Content of this webpage - except for the partner logos - is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" class="">CC-BY-4.0</a> conditions</p>
             </div>
             <div id="subfooter-left" class="credits">
               <p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
@@ -253,7 +253,7 @@
 		
 
 
-<script src="https://ego-n.org/assets/js/javascript.min.js"></script>
+<script src="https://staging.ego-n.org/assets/js/javascript.min.js"></script>
 
 
 
