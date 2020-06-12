@@ -29,7 +29,7 @@ header: no
       </div>
     </div>
     <div class="hero__right large-5 columns hero__img">
-      <img src="images/HP_hero_img_v3_for_web.svg" alt="Image about how open_egon works">
+      <img src="images/HP_hero_img_v3_for_web.svg" alt="Gas, heat and e-mobility are coupled on the electrical grid. Data come from the OpenEnergyPlatform">
     </div>
   </section>
 
@@ -127,7 +127,7 @@ Incorporating all grid levels, from transmission grid to low-voltage distributio
     </div>
     <div class="columns funding__logo">
       <a href="https://www.bmwi.de/" title="Zur BMWI Website">
-        <img src="images/BMWI.jpg" alt="Logo vom BMWI">
+        <img src="images/BMWI.jpg" alt="Promoted by the Federal Ministry for Economic Affairs and Energy">
       </a>
     </div>
   </section>
