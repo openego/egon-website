@@ -6,7 +6,7 @@ This repository contains the code for generating the site [ego-n.org](https://eg
 
 Both is possible, building the site with a local installation of Jekyll or containing Jekyll in a Docker container.
 
-The site is served at [localhost:4000/](localhost:4000/) in both cases.
+The site is served at [http://localhost:4000](http://localhost:4000) in both cases.
 
 To work around Jekyll build errors, create to folders which are required
 
