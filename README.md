@@ -1,10 +1,10 @@
-# eGo^n project website
+# eGo^n^ project website
 
 This repository contains the code for generating the site [ego-n.org](https://ego-n.org).
 
 # Build and serve the site locally
 
-Bot is possible, building the site with a local installation of Jekyll or containing Jekyll in a Docker container.
+Both is possible, building the site with a local installation of Jekyll or containing Jekyll in a Docker container.
 
 The site is served at [localhost:4000/](localhost:4000/) in both cases.
 
@@ -31,7 +31,7 @@ docker run --rm -p 4000:4000 --volume="$PWD/vendor/bundle:/usr/loc/bundle" --vol
 
 # Deploy to webserver
 
-Use the deploy script and deploy files from dev or production purpose
+Use the deploy script and deploy files from dev or production purpose. Deployment requires sufficient privileges on the webserver.
 
 # Development
 
