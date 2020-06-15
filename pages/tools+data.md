@@ -11,7 +11,7 @@ header: no
   <section class="tools-data__header row row__wrap">
     <div class="columns">
       <p class="tools-data__subheading">
-        In the context of <a href="https://openegoproject.wordpress.com">open_eGo</a>, several models and applications have been developed resulting in a toolchain. These data and tools provide the basis for eGo<sup>n</sup>. The data and data models were created and processed in different modules named <i>data processing</i> and <i>ding0</i>. Additional external open source tools such as <i>osmTGmod</i> were applied. Two modular planning tools (<i>eTraGo</i> and <i>eDisGo</i>) focusing on different grid levels were developed. They are combined in the inter-grid-level planning tool eGo to investigate viable grid expansion scenarios. All data sets are open data and made available on the open energy database (oedb) as part of the open energy platform - <a href="https://openenergy-platform.org/">OEP</a>. The grid planning tools access the oedb to retrieve and store data. The codes of the developed tools are open source and available on <a href="https://github.com/openego">GitHub</a>. 
+        Several models and applications have been developed in context of the previous <a href="https://openegoproject.wordpress.com">open_eGo</a> project, resulting in a toolchain. These data and tools provide the basis for eGo<sup>n</sup>. The data and data models were created and processed in different modules named <i>data processing</i> and <i>ding0</i>. Additional external open-source tools such as <i>osmTGmod</i> were applied. Two modular planning tools (<i>eTraGo</i> and <i>eDisGo</i>) focusing on different grid levels were developed. They are combined in the inter-grid-level planning tool eGo to investigate viable grid expansion scenarios. All data sets are open data and available in the open energy database (oedb) as part of the open energy platform &mdash; <a href="https://openenergy-platform.org/">OEP</a>. The grid planning tools access the oedb to retrieve and store data. The codes of the developed tools are open source and available on <a href="https://github.com/openego">GitHub</a>. 
       </p>
     </div>
     <div class="columns tools-data__img">
@@ -28,7 +28,7 @@ header: no
     </div>
     <div class="columns tools-data__tools-text">
       <p>
-      Within open_eGo, we've created a family of three grid planning tools for integrated modeling of transmission and distribution grid level
+      Within open_eGo, we've created a family of three grid planning tools for integrated modeling of transmission and distribution grid level:
     </p>
     </div>
 
@@ -59,7 +59,7 @@ header: no
       <div class="row">
         <h2 class="tools-data__oep-heading">Open&shy;Energy&shy;Platform</h2>
         <p class="tools-data__oep-text">
-          The OpenEnergy Platform is an open data platform used by energy researchers to publish data in an accessible manner.
+          The OpenEnergyPlatform is an open-data platform used by energy researchers to publish data in an accessible manner.
         </p>
         <div class="tools-data__oep-btn">
           <a href="https://openenergy-platform.org/" class="button">Visit OEP</a>

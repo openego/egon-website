@@ -1,10 +1,10 @@
 - name: DLR Institute of Networked Energy Systems
   logo: Partnerlogo_DLR.svg
-  description: The DLR Institute of Networked Energy Systems, Department of Energy Systems Analysis, develops open source tools for cross-sectoral energy systems planning. The institute has a strong expertise in open source modelling of power and gas grid infrastructures. Among other activities, DLR will provide within the project methods and data for the optimal allocation of power-to-gas plants and techniques for complexity reduction of cross-sectoral energy systems.
+  description: The DLR Institute of Networked Energy Systems, Department of Energy Systems Analysis, develops open-source tools for cross-sectoral energy systems planning. The institute has a strong expertise in open-source modeling of power and gas grid infrastructures. Among other activities, DLR will provide methods and data for the optimal allocation of power-to-gas plants and techniques for complexity reduction of cross-sectoral energy systems.
   url: https://www.dlr.de/ve/desktopdefault.aspx/tabid-12471/21741_read-49802/
 - name: University of Flensburg
   logo: Partnerlogo_EUF.svg
-  description: The Europa-Universität Flensburg (EUF), as a part of the Center for Sustainable Energy Systems (ZNES), contributes to the extension of the existing open source power system planning tools with regard to sector integration with a focus on the heat sector. The EUF can rely on expertise in open source modelling, energy economics and heat sector mapping. As part of its work, the EUF will, among other activities, provide high-resolution spatial and temporal heat demand data.
+  description: The Europa-Universität Flensburg (EUF), as a part of the Center for Sustainable Energy Systems (ZNES), contributes to the extension of the existing open-source power system planning tools with regard to sector integration with a focus on the heat sector. The EUF can rely on expertise in open-source modeling, energy economics and heat sector mapping. As part of its work, the EUF will, among other activities, provide high-resolution spatial and temporal heat demand data.
   url: https://www.uni-flensburg.de/eum/
 - name: Universtity of Applied Sciences Flensburg
   logo: Partnerlogo_HSFL.svg
@@ -12,14 +12,14 @@
   url: https://hs-flensburg.de/forschung/fue/forschungsprojekte/egon
 - name: Fraunhofer Institute for Energy Economics and Energy System Technology
   logo: Partnerlogo_IEE.svg
-  description: The Fraunhofer Institute for Energy Economics and Energy System Technology IEE in Kassel researches for the national and international transformation of energy supply systems. The IEE provides data for studies about sector coupling (e.g. time series) and algorithms to reduce the complexity of models. These are based on experiences made in former projects. In addition, the IEE will validate new solutions created during the eGo<sup>n</sup> project.
+  description: The Fraunhofer Institute for Energy Economics and Energy System Technology IEE in Kassel researches does research for the national and international transformation of energy supply systems. The IEE provides data for studies about sector coupling (e.g. time series) and algorithms to reduce the complexity of models. These are based on experiences made in former projects. In addition, the IEE will validate new solutions created during the eGo<sup>n</sup> project.
   url: https://www.iee.fraunhofer.de/
 - name: University of Magdeburg
   logo: Partnerlogo_OvGU.svg
-  description: The research group for theoretical computer science of Otto-von-Guericke-University Magdeburg (OvGU) uses its expertise in software engineering and open source software development to improve the Open Energy Database and the Open Energy Platform in order to open up new application areas and widen their user community. The OvGU's expertise in efficient artificial intelligence methods will be used to improve the scalability of the eGo tool to adapt to the increased complexity entailed by extending it to multiple sectors.
+  description: The research group for theoretical computer science of Otto-von-Guericke-University Magdeburg (OvGU) uses its expertise in software engineering and open-source software development to improve the Open Energy Database and the OpenEnergyPlatform in order to open up new application areas and widen their user community. The OvGU's expertise in efficient artificial intelligence methods will be used to improve the scalability of the eGo tool to adapt to the increased complexity entailed by extending it to multiple sectors.
   url: https://forschung-sachsen-anhalt.de/project/offenes-netzebenen-sektorenuebergreifendes-23206
 - name: Reiner Lemoine Institut
   logo: Partnerlogo_RLI.svg
-  description: The Reiner Lemoine Institut (RLI) brings competence in planning of distribution grids, modeling of synthetic distribution grid topologies, and (geo-)data processing to the project. The RLI has a strong focus on the distribution grid part and is responsible for providing charging profiles of battery-electric vehicles, developing sector-coupled distribution planning methods and leads case studies that will be conducted with the developed tools.
+  description: Reiner Lemoine Institut (RLI) contributes its competence in planning of distribution grids, modeling of synthetic distribution grid topologies, and (geo-)data processing to the project. RLI has a strong focus on the distribution grid part and is responsible for providing charging profiles of battery-electric vehicles, developing sector-coupled distribution planning methods and leads case studies that will be conducted with the developed tools.
   url: https://reiner-lemoine-institut.de/egon/
   
