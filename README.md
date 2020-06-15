@@ -1,4 +1,4 @@
-# eGo^n^ project website
+# eGo<sup>n</sup> project website
 
 This repository contains the code for generating the site [ego-n.org](https://ego-n.org).
 
