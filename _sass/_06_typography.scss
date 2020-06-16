@@ -194,6 +194,10 @@ ul, ol {
 }
 li {
     margin-left: 0;
+    padding-bottom: .15rem;
+    @media screen and (min-width: 1025px) {
+        padding-bottom: .5rem;
+    }
 }
 
 .no-bullet {
