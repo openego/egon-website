@@ -8,6 +8,9 @@
 				<div class="columns publications__heading-year">
 					<h4>{{ e.title }}</h4>
 				</div>
+				<div class="row">
+					{{ e.description }}
+				</div>
 				<div>
 					<ul style="list-style-type:none;">
 						{% for p in e.presentations %}
