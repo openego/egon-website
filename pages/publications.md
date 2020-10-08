@@ -19,5 +19,6 @@ header: no
 		<h2>Presentations</h2>
 	</div>
 	<div class="columns publications__text">
+		{% include _presentations.html %}
 	</div>
 </div>
