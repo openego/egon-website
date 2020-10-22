@@ -1,0 +1,63 @@
+@mixin section-text {
+  text-align: center;
+
+  @media only screen and (min-width: 641px) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  @media only screen and (min-width: 1025px) {
+    padding-top: 0;
+    margin-bottom: 1rem;
+    max-width: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.publications {
+
+  .publications__section {
+    padding-top: 4rem;
+
+    @media only screen and (min-width: 641px) {
+      padding-top: 0;
+      padding-bottom: 2rem;
+      box-shadow: 0px 4px 16px rgba(31,86,125,0.1);
+      border-radius: 8px;
+    }
+    @media only screen and (min-width: 1025px) {
+      padding-bottom: 3rem;
+    }
+  }
+
+  .publications__heading {
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+
+  .publications__heading-year {
+    text-align: left;
+    margin-bottom: .3rem;
+  }
+
+  .publications__subsection {
+    padding-top: 4rem;
+
+    @media only screen and (min-width: 641px) {
+      padding-top: 0;
+      padding-bottom: 2rem;
+      box-shadow: 0px 4px 16px rgba(31,86,125,0.1);
+      border-radius: 8px;
+    }
+    @media only screen and (min-width: 1025px) {
+      padding-bottom: 3rem;
+    }
+  }
+
+  .publications__text p {
+    @include section-text;
+  }
+
+
+}

@@ -101,9 +101,10 @@ Incorporating all grid levels, from transmission grid to low-voltage distributio
         <div class="workshops__item medium-6 columns">
           <div class="workshops__item-text">
             <div class="workshops__item-date">
-              End of 2020
+              September/October 2020
             </div>
             <p>Priorization of research questions, scenarios, assumptions and parameters</p>
+            <p>Find the results in <a href="{{ site.url }}{{ site.baseurl }}/publications" title="Publications">Publications</a></p>
           </div>
         </div>
         <div class="workshops__item medium-6 columns">
