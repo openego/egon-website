@@ -163,6 +163,7 @@
 
     thead tr th:last-child {
       border-top-right-radius: 8px;
+      min-width: 15rem;
     }
 
     tr td {
@@ -171,6 +172,13 @@
       @media only screen and (min-width: 1025px) {
         font-size: 1rem;
         line-height: 1.4rem;
+      }
+
+      ul {
+        @media only screen and (min-width: 1025px) {
+          font-size: 1rem;
+          line-height: 1.4rem;
+        }
       }
     }
   }
