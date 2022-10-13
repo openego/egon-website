@@ -124,11 +124,11 @@ Incorporating all grid levels, from transmission grid to low-voltage distributio
       <h2>Funding</h2>
     </div>
     <div class="columns funding__text">
-      <p>This research project (FKZ: 03EI1002) receives funding within the <a href="https://www.bmwi.de/Redaktion/EN/Artikel/Energy/research-for-an-ecological-reliable-and-affordable-power-supply.html" title="">7<sup>th</sup> Energy Research Programme</a> by the German Federal Ministry for Economic Affairs and Energy from December 2019 until November 2022</p>
+      <p>This research project (FKZ: 03EI1002) receives funding within the <a href="https://www.energieforschung.de/energieforschungspolitik/energieforschungsprogramm" title="">7<sup>th</sup> Energy Research Programme</a> by the German Federal Ministry for Economic Affairs and Climate Action from December 2019 until March 2023</p>
     </div>
     <div class="columns funding__logo">
       <a href="https://www.bmwi.de/" title="Zur BMWI Website">
-        <img src="images/BMWI.jpg" alt="Promoted by the Federal Ministry for Economic Affairs and Energy">
+        <img src="images/BMWK.png" alt="Promoted by the Federal Ministry for Economic Affairs and Climate Action">
       </a>
     </div>
   </section>
