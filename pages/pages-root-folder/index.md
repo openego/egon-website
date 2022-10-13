@@ -110,9 +110,10 @@ Incorporating all grid levels, from transmission grid to low-voltage distributio
         <div class="workshops__item medium-6 columns">
           <div class="workshops__item-text">
             <div class="workshops__item-date">
-              End of 2022
+              Final workshop: March 2023
             </div>
-            <p>Presentation of results and introduction to tools and data</p>
+            <p>In our final workshop we will present our results and introduce our tools and data.</p>
+            <p>The workshop will be held on 28<sup>th</sup> March 2023 at the <a href="https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LVB/lvb_node.html" title="">Schleswig-Holstein’s Representation in Berlin</a></p>
           </div>
         </div>
       </div>
