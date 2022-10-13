@@ -1,0 +1,26 @@
+{% for d in site.data._papers_reports %}
+	<div class="publications__subsection row row__wrap">
+		<div class="columns publications__heading">
+			<h3>{{ d.year }}</h3>
+		</div>
+		{% for e in d.publications %}
+			<div class="publications__presentation row row__wrap">
+				<div class="columns publications__heading-year">
+					<h4>{{ e.title }}</h4>
+				</div>
+				<div class="row">
+					{{ e.description }}
+				</div>
+				<div>
+					<ul style="list-style-type:none;">
+						{% for p in e.files %}
+							<li>
+								<a href="{{ site.url }}{{ site.baseurl }}/papers/{{ p.file }}">{{ p.title }}</a>  ({{ p.author }}), published in <a href="{{ p.journal_link }}">{{ p.journal }}</a>
+							</li>
+					  	{% endfor %}
+					</ul>
+				</div>
+			</div>  
+		{% endfor %}
+	</div>
+{% endfor %}
