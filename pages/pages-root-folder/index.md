@@ -92,7 +92,7 @@ Incorporating all grid levels, from transmission grid to low-voltage distributio
       {% include _tools.html %}
   </section>
 
-  <section class="workshops row row__wrap">
+  <section id="anchor-workshops" class="workshops row row__wrap">
     <div class="columns workshops__header">
       <h2>Our workshops</h2>
     </div>
