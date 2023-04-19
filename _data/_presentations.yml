@@ -1,0 +1,33 @@
+- year: 2021
+  events:
+    - title: ""
+      presentations:
+        - title: "Poster beim Jahrestreffen des Forschungsnetzwerks Energiesystemanalyse"
+          author: ""
+          file: "2021_Poster_FNE_Jahrestreffen.pdf"
+- year: 2020
+  events:
+    - title: "Neue Verbraucher und elektrische Flexbilitäten: Potentiale und Herausforderungen im Übertragungs- und Verteilnetz - Online-Workshop der Projekte open_BEA und eGo<sup>n</sup>"
+      presentations:
+        - title: "Projektvorstellung eGo<sup>n</sup>" 
+          author:  ""
+          file: "Projektvorstellung_eGon.pdf"
+        - title: "Projektvorstellung open_BEA" 
+          author:  ""
+          file: "Projektvorstellung_open_BEA.pdf"
+        - title: "Session A2: Forschungsfragen und Szenarien" 
+          author:  ""
+          file: "2020_open_BEA_eGon_WS_Session-A2-Forschungsfragen-Szenarien.pdf"
+        - title: "Session B1: Elektrische Flexibilitäten" 
+          author:  ""
+          file: "2020_open_BEA_eGon_WS_Session-B1-Elektrische-Flexibilitaeten.pdf"
+        - title: "Session B2: Das eGo_n Modellkonzept" 
+          author:  ""
+          file: "2020_open_BEA_eGon_WS_Session-B2-Das_eGo_n_Modellkonzept.pdf"
+        - title: "Session C2: Sektorenkopplung in der Stromnetzmodellierung" 
+          author:  ""
+          file: "2020_open_BEA_eGon_WS_Session-C2-Sektorenkopplung_in_der_Stromnetzmodellierung.pdf"
+        - title: "Session D2: Verwertbarkeit der Projektergebnisse " 
+          author:  ""
+          file: "D2_Verwertbarkeit.pdf"
+      description: We had a joined workshop with the research project open_BEA. Below you find presentation slides from plenary and breakout sessions. The latter include a wrap-up at the end.

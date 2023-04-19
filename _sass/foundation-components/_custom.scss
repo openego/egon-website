@@ -1,5 +1,15 @@
 /* Custom CSS not realted to Feeling Responsive */
 
+/* Layout */
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.row.main-content {
+    flex: 1 0 auto;
+}
+
 /* Footer */
 #footer-content {
     border-top: 1px solid lighten($primary-color-1, 95%);

@@ -1,0 +1,10 @@
+- year: 2022
+  publications:
+    - title: "Open modeling of electricity and heat demand curves for all residential buildings in Germany"
+      files:
+        - title: "Download paper"
+          author: "C. Büttner, J. Amme, J. Endres, A. Malla, B. Schachler und I. Cußmann"
+          file: "Buettner_2022_Open_modeling_of_electricity_and_heat_demand_curves_for_all_residential_buildings_in_Germany.pdf"
+          journal: "Energy Informatics 5:21 (2022)"
+          journal_link: "https://energyinformatics.springeropen.com/articles/10.1186/s42162-022-00201-y"
+      description: "The paper was presented at the 11th DACH+ Conference on Energy Informatics 2022"

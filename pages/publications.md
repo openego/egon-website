@@ -1,8 +1,27 @@
 ---
-layout: imprint
+layout: publications
 title: "Publications"
 permalink: "/publications/"
 header: no
 ---
 
-We'll keep you updated with the latest publications and slides from talks we gave. Until these are available, feel free to read our [publications](https://openegoproject.wordpress.com/publications/) from open_eGo.
+<div class="publications__subsection row row__wrap">
+	<div class="columns publications__heading">
+		<h2>Paper & reports</h2>
+	</div>
+	<div class="columns publications__text">
+		{% include _papers_reports.html %}
+	</div>
+	<div class="columns publications__text">
+		You can find our publications from open_eGo <a href="https://openegoproject.wordpress.com/publications/">here</a>.
+	</div>
+</div>
+
+<div class="publications__subsection row row__wrap">
+	<div class="columns publications__heading">
+		<h2>Presentations</h2>
+	</div>
+	<div class="columns publications__text">
+		{% include _presentations.html %}
+	</div>
+</div>
