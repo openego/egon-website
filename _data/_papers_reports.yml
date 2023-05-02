@@ -1,3 +1,13 @@
+- year: 2023
+  publications:
+    - title: "Influence of flexibility options on the German transmission grid - A sector-coupled mid-term scenario"
+      files:
+        - title: ""
+          author: "C. Büttner, K. Esterl, I. Cußmann, C. Epia, J. Amme and A. Nadal"
+          file: ""
+          journal: "(in submission)"
+          journal_link: "https://ego-n.org/publications/"
+      description: ""
 - year: 2022
   publications:
     - title: "Open modeling of electricity and heat demand curves for all residential buildings in Germany"
