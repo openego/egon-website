@@ -1,3 +1,17 @@
+- year: 2023
+  events:
+    - title: "11th European Open Energy Modelling Workshop"
+      description: "by <a href='https://forum.openmod.org/t/vienna-2023-workshop-workshop-details-logistics/3625' target='_blank'>openmod initiative</a>"
+      presentations:
+        - title: "Lightning talk"
+          author: "(recording available <a href='https://forum.openmod.org/t/vienna-2023-workshop-youtubes/3960#lightning-talk-egon-open-and-cross-sectoral-planning-of-transmission-and-distributionnbspgrids-11' target='_blank'>here</a>)"
+          file: "2023_openmod_eGon_lightning_talk.pdf"
+        - title: "Poster: eGo<sup>n</sup>-data"
+          author: ""
+          file: "2023_openmod_eGon-data_poster.pdf"
+        - title: "Poster: eGo<sup>n</sup> tools"
+          author: ""
+          file: "2023_openmod_eGon_tools_poster.pdf"
 - year: 2021
   events:
     - title: ""
@@ -30,4 +44,4 @@
         - title: "Session D2: Verwertbarkeit der Projektergebnisse " 
           author:  ""
           file: "D2_Verwertbarkeit.pdf"
-      description: We had a joined workshop with the research project open_BEA. Below you find presentation slides from plenary and breakout sessions. The latter include a wrap-up at the end.
+      description: "We had a joined workshop with the research project open_BEA. Below you find presentation slides from plenary and breakout sessions. The latter include a wrap-up at the end."
