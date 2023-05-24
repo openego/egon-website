@@ -16,7 +16,7 @@ header: no
 		You can find our publications from open_eGo <a href="https://openegoproject.wordpress.com/publications/">here</a>.
 	</div>
 </div>
-
+<hr style="margin-bottom:0">
 <div class="publications__subsection row row__wrap">
 	<div class="columns publications__heading">
 		<h2>Presentations</h2>
@@ -25,7 +25,7 @@ header: no
 		{% include _presentations.html %}
 	</div>
 </div>
-
+<hr style="margin-bottom:0">
 <div class="publications__subsection row row__wrap">
 	<div class="columns publications__heading">
 		<h2>Theses & seminar papers</h2>
