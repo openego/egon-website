@@ -1,5 +1,13 @@
 - year: 2023
   publications:
+    - title: "Combining k-means Clustering with a Dijkstra's algorithm to reduce the spatial complexity of large-scale power grid models"
+      files:
+        - title: ""
+          author: "K. Esterl, C. Epia, and U. P. Müller"
+          file: ""
+          journal: " (work in progress)"
+          journal_link: "https://ego-n.org/publications/"
+      description: ""
     - title: "Influence of flexibility options on the German transmission grid - A sector-coupled mid-term scenario"
       files:
         - title: ""
