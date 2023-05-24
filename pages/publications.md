@@ -25,3 +25,12 @@ header: no
 		{% include _presentations.html %}
 	</div>
 </div>
+
+<div class="publications__subsection row row__wrap">
+	<div class="columns publications__heading">
+		<h2>Theses & seminar papers</h2>
+	</div>
+	<div class="columns publications__text">
+		{% include _theses.html %}
+	</div>
+</div>
