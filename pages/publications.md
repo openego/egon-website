@@ -17,7 +17,7 @@ header: no
 	</div>
 </div>
 <hr style="margin-bottom:0">
-<div class="publications__subsection row row__wrap">
+<div id="anchor-presentations" class="publications__subsection row row__wrap">
 	<div class="columns publications__heading">
 		<h2>Presentations</h2>
 	</div>
