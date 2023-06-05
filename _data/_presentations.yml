@@ -1,5 +1,23 @@
 - year: 2023
   events:
+    - title: "Final Workshop"
+      description: "on 2nd June 2023 at the Schleswig-Holstein’s Representation in Berlin.<br>Our code & data will be released soon - stay tuned!"
+      presentations:
+        - title: "Einführung in das Forschungsprojekt eGo<sup>n</sup> und die zentralen Ergebnisse"
+          author: ""
+          file: "2023_eGon_Abschluss-WS_Projekteinfuehrung.pdf"
+        - title: "Session I-A Datenmodell: <i>Ein offenes und sektorenubergreifendes Datenmodell für das deutsche Energiesystem</i>"
+          author: ""
+          file: "2023_eGon_Abschluss-WS_Session_I-A_Datenmodell.pdf"
+        - title: "Session I-B Komplexitätsexplosion und -reduktion: <i>Umgang mit großen Datenmengen in der Energiesystemmodellierung</i>"
+          author: ""
+          file: "2023_eGon_Abschluss-WS_Session_I-B_Komplexitaetsreduktion.pdf"
+        - title: "Session II-A Übertragungsnetzplanung: <i>Optimierung von Netz- und Speicherausbau sowie Flexibilitätseinsatz in der Höchst- und Hochspannungsebene</i>"
+          author: ""
+          file: "2023_eGon_Abschluss-WS_Session_II-A_Uebertragungsnetzplanung.pdf"
+        - title: "Session II-B Verteilnetzplanung: <i>Netz-optimaler Einsatz von Flexibilität unter Berücksichtigung von Anforderungen aus dem übergelagerten Netz</i>"
+          author: ""
+          file: "2023_eGon_Abschluss-WS_Session_II-B_Verteilnetzplanung.pdf"
     - title: "11th European Open Energy Modelling Workshop"
       description: "by <a href='https://forum.openmod.org/t/vienna-2023-workshop-workshop-details-logistics/3625' target='_blank'>openmod initiative</a>"
       presentations:

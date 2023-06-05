@@ -115,6 +115,7 @@ Incorporating all grid levels, from transmission grid to low-voltage distributio
             <p>In our final workshop we will present our results and introduce our tools and data.</p>
             <p>The workshop will be held on 2<sup>nd</sup> June 2023 at the <a href="https://www.schleswig-holstein.de/DE/landesregierung/ministerien-behoerden/LVB/lvb_node.html" title="">Schleswig-Holstein’s Representation in Berlin</a></p>
             <p>Agenda and venue: see <a href="{{ site.url }}{{ site.baseurl }}/presentations/eGon_Abschlussworkshop.pdf" title="program">program</a> (in German). Please note that prior registration is required (free of charge).</p>
+            <p>Find the results in <a href="{{ site.url }}{{ site.baseurl }}/publications" title="Publications">Publications</a></p>
           </div>
         </div>
       </div>
