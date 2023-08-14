@@ -1,12 +1,12 @@
 - year: 2023
   publications:
-    - title: "Combining k-means Clustering with a Dijkstra's algorithm to reduce the spatial complexity of large-scale power grid models"
+    - title: "Avoiding False Inter-Zonal Meshing in the Clustering of a Large-Scale German Power Grid"
       files:
         - title: ""
           author: "K. Esterl, C. Epia, and U. P. Müller"
           file: ""
-          journal: " (work in progress)"
-          journal_link: "https://ego-n.org/publications/"
+          journal: " (submitted, preprint available here)"
+          journal_link: "https://dx.doi.org/10.2139/ssrn.4527860"
       description: ""
     - title: "Influence of flexibility options on the German transmission grid - A sector-coupled mid-term scenario"
       files:
