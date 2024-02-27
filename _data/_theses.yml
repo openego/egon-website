@@ -1,0 +1,54 @@
+- year: 2022
+  theses:
+    - title: "Analyse der Auswirkungen räumlicher Komplexitätsreduktion auf die Verteilnetzausbauplanung mit Flexibilitäten"
+      type: "Master's thesis"
+      author: "M. Jahn"
+      files:
+        - title: "Download thesis"
+          file: "2022_MA_Jahn_Raeumliche_Komplexitaetsreduktion.pdf"
+    - title: "Vergleich von Methoden zur Reduktion der zeitlichen Komplexität für die Optimierung sektorgekoppelter Energiesysteme"
+      type: "Master's thesis"
+      author: "K. Esterl"
+      files:
+        - title: "Download thesis"
+          file: "2022_MA_Esterl_Zeitliche_Komplexitätsreduktion.pdf"
+    - title: "Modellierung synthetischer Verteilnetztopologien in urbanen Gebieten"
+      type: "Master's thesis"
+      author: "P. Dubielzig"
+      files:
+        - title: "Download thesis"
+          file: "2022_MA_Dubielzig_Urbane_Verteilnetze.pdf"
+- year: 2021
+  theses:
+    - title: "Using the concept of dynamic line rating to facilitate the integration of variable renewable energy and to optimize the expansion of the German power grid"
+      type: "Master's thesis"
+      author: "C. Epia"
+      files:
+        - title: "Download thesis"
+          file: "2021_MA_Epia_Dynamic_line_rating.pdf"
+    - title: "Generation of high spatial and temporal resolution heat demand profiles for Germany"
+      type: "Master's thesis"
+      author: "A. Malla"
+      files:
+        - title: "Download thesis"
+          file: "2021_MA_Malla_Heat_demand_profiles.pdf"
+    - title: "Integration von Demand Side Management in eTraGo"
+      type: "Seminar paper"
+      author: "K. Esterl and H. Dentzien"
+      files:
+        - title: "Download seminar paper"
+          file: "2021_SP_Esterl_Dentzien_DSM-eTraGo.pdf"
+    - title: "Räumliche Komplexitätsreduktion in eTraGo - Entwicklung eines k-medoids Dijkstra Clusterings"
+      type: "Seminar paper"
+      author: "K. Esterl"
+      files:
+        - title: "Download seminar paper"
+          file: "2021_SP_Esterl_k-medoids-Dijkstra-Clustering.pdf"
+- year: 2020
+  theses:
+    - title: "Technisch-ökonomische Optimierung des Übertragungsnetzausbaus in Deutschland unter Berücksichtigung von (n-1)-Ausfallanalysen"
+      type: "Master's thesis"
+      author: "C. Büttner"
+      files:
+        - title: "Download thesis"
+          file: "2020_MA_Buettner_(n-1)Ausfallanalysen.pdf"
