@@ -1,5 +1,21 @@
-- year: 2023
+- year: 2024
   publications:
+    - title: "Ein offenes netzebenen- und sektorenübergreifendes Planungsinstrument zur Bestimmung des optimalen Einsatzes und Ausbaus von Flexibilitätsoptionen in Deutschland - Projektabschlussbericht"
+      files:
+        - title: "Download report"
+          author: "I. Cußmann, B. Schachler, C. Büttner, H.-P. Tetens, K. Esterl, J. Amme, K. Helfenbein, M. Held, A. Nadal, S. Günther and C. Epia"
+          file: "Endbericht_egon_v2.pdf"
+          journal: ""
+          journal_link: ""
+      description: ""
+    - title: "Influence of flexibility options on the German transmission grid - A sector-coupled mid-term scenario"
+      files:
+        - title: "Download paper"
+          author: "C. Büttner, K. Esterl, I. Cußmann, C. Epia, J. Amme and A. Nadal"
+          file: "Buettner_2024_Influence_of_flexibility_options_on_the_German_transmission_grid-A_sector-coupled_mid-term_scenario.pdf"
+          journal: "Renewable and Sustainable Energy Transition 5 (2024)"
+          journal_link: "https://doi.org/10.1016/j.rset.2024.100082"
+      description: ""
     - title: "Avoiding False Inter-Zonal Meshing in the Clustering of a Large-Scale German Power Grid"
       files:
         - title: ""
@@ -7,14 +23,6 @@
           file: ""
           journal: " (submitted, preprint available here)"
           journal_link: "https://dx.doi.org/10.2139/ssrn.4527860"
-      description: ""
-    - title: "Influence of flexibility options on the German transmission grid - A sector-coupled mid-term scenario"
-      files:
-        - title: ""
-          author: "C. Büttner, K. Esterl, I. Cußmann, C. Epia, J. Amme and A. Nadal"
-          file: ""
-          journal: " (submitted, preprint available here)"
-          journal_link: "https://dx.doi.org/10.2139/ssrn.4442243"
       description: ""
 - year: 2022
   publications:
