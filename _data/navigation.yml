@@ -13,3 +13,7 @@
 - title: "Partners"
   url: "/partners/"
   side: left
+
+- title: "WebApp"
+  url: "https://egon.rl-institut.de"
+  side: left
