@@ -53,6 +53,23 @@ header: no
 
   <section class="tools-data__oep row row__wrap">
     <div class="columns medium-3 tools-data__oep-logo">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/webapp.png" alt="eGon WebApp">
+    </div>
+    <div class="columns medium-9 tools-data__oep-right">
+      <div class="row">
+        <h2 class="tools-data__oep-heading">WebApp</h2>
+        <p class="tools-data__oep-text">
+          Explore the data and results in our WebApp
+        </p>
+        <div class="tools-data__oep-btn">
+          <a href="https://egon.rl-institut.de" class="button">Visit WebApp</a>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="tools-data__oep row row__wrap">
+    <div class="columns medium-3 tools-data__oep-logo">
       <img src="{{ site.url }}{{ site.baseurl }}/images/OEP_logo.svg" alt="OpenEnergyPlatform">
     </div>
     <div class="columns medium-9 tools-data__oep-right">

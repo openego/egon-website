@@ -8,6 +8,14 @@
           journal: ""
           journal_link: ""
       description: ""
+    - title: "Avoiding false inter-zonal meshing in the clustering of a large-scale German power grid"
+      files:
+        - title: "Download paper"
+          author: "K. Esterl, C. Epia, and U. P. Müller"
+          file: "Esterl_2024_Avoiding_false_inter-zonal_meshing_in_the_clustering_of_a_large-scale_German_power_grid.pdf"
+          journal: "Energy Strategy Reviews 56 (2024)"
+          journal_link: "https://doi.org/10.1016/j.esr.2024.101569"
+      description: ""
     - title: "Influence of flexibility options on the German transmission grid - A sector-coupled mid-term scenario"
       files:
         - title: "Download paper"
@@ -15,14 +23,6 @@
           file: "Buettner_2024_Influence_of_flexibility_options_on_the_German_transmission_grid-A_sector-coupled_mid-term_scenario.pdf"
           journal: "Renewable and Sustainable Energy Transition 5 (2024)"
           journal_link: "https://doi.org/10.1016/j.rset.2024.100082"
-      description: ""
-    - title: "Avoiding False Inter-Zonal Meshing in the Clustering of a Large-Scale German Power Grid"
-      files:
-        - title: ""
-          author: "K. Esterl, C. Epia, and U. P. Müller"
-          file: ""
-          journal: " (submitted, preprint available here)"
-          journal_link: "https://dx.doi.org/10.2139/ssrn.4527860"
       description: ""
 - year: 2022
   publications:
