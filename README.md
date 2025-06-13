@@ -1,6 +1,6 @@
-# eGo<sup>n</sup> project website
+# reGo<sup>n</sup> / eGo<sup>n</sup> project website
 
-This repository contains the code for generating the site [ego-n.org](https://ego-n.org).
+This repository contains the code for generating the site [rego-n.org](https://rego-n.org).
 
 # Build and serve the site locally
 
@@ -35,7 +35,7 @@ Use the deploy script and deploy files from dev or production purpose. Deploymen
 
 # Development
 
-...will be deployed to staging.ego-n.org with restricted access
+...will be deployed to staging.rego-n.org with restricted access
 
 
 ```
@@ -44,7 +44,7 @@ Use the deploy script and deploy files from dev or production purpose. Deploymen
 
 # Development
 
-...will be deployed publicly accessible to ego-n.org 
+...will be deployed publicly accessible to rego-n.org
 
 
 ```
