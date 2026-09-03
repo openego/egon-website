@@ -1,0 +1,23 @@
+<div class="columns">
+  <div class="use-cases-grid">
+    {% for uc in site.data._use_cases %}
+      <div class="use_cases__item">
+        <div class="use_cases__upper--helper"></div>
+        <div class="use_cases__upper">
+          <h2 class="use_cases__name">
+            <a href="#{{ uc.id }}">
+              <span class="use_cases__number">{{ uc.name | remove: "Use Case " }}</span>
+              <span class="use_cases__title">{{ uc.title }}</span>
+            </a>
+          </h2>
+        </div>
+        <div class="use_cases__bottom">
+          <p class="use_cases__text">{{ uc.short | markdownify }}</p>
+          <div class="use_cases__link">
+            <a href="#{{ uc.id }}">More information</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

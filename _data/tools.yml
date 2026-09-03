@@ -1,5 +1,5 @@
 - name: eTraGo
-  description: The open-source tool eTraGo optimizes grid and storage expansion on the German 380, 220 and 110 kV voltage levels for future power system designs.
+  description: Optimising energy dispatch, asset and grid expansion, and flexibility use across Germany's <strong>high and extra-high voltage</strong> levels.
   logo: etrago_logo.png
   link: https://etrago.readthedocs.io
   links: 
@@ -10,7 +10,7 @@
     name: "Docs"
     icon: noun_Book_3324965.svg
 - name: eGo
-  description: With eGo, an integrated optimization of flexibility options and grid extension is assessed by linking transmission grid planning of [eTraGo](https://etrago.readthedocs.io) with distribution grid planning of [eDisGo](https://edisgo.readthedocs.io).
+  description: Enabling the <strong>system-wide</strong> optimization of flexibility options and grid expansion by linking transmission grid planning of [eTraGo](https://etrago.readthedocs.io) with distribution grid planning of [eDisGo](https://edisgo.readthedocs.io).
   logo: Toollogo_eGo3.svg
   link: https://openego.readthedocs.io
   links: 
@@ -21,7 +21,7 @@
     name: "Docs"
     icon: noun_Book_3324965.svg
 - name: eDisGo
-  description: A distribution grid planning tool based on PyPSA. It offers automatized grid reinforcement, battery integration, grid-supportive curtailment and can deal with time series.
+  description: Determining flexibility time series for grid-beneficial operation and assessing reinforcement needs in <strong>medium- and low-voltage</strong> grids.
   logo: Toollogo_eDisGo.svg
   link: https://edisgo.readthedocs.io
   links: 
@@ -29,5 +29,27 @@
     name: GitHub
     icon: GitHub_icon.svg
   - link: https://edisgo.readthedocs.io
+    name: "Docs"
+    icon: noun_Book_3324965.svg
+- name: ding0
+  description: Generating open-data-based <strong>grid models</strong> for <strong>medium- and low-voltage</strong> networks across Germany, which are used in eDisGo.
+  logo: Toollogo_ding0.png
+  link: https://dingo.readthedocs.io
+  links:
+  - link: https://github.com/openego/ding0
+    name: GitHub
+    icon: GitHub_icon.svg
+  - link: https://dingo.readthedocs.io
+    name: "Docs"
+    icon: noun_Book_3324965.svg
+- name: eGo<sup>n</sup>-data
+  description: Generating an open-data-based <strong>energy system model</strong>, providing grid analysis tools with data at the right scope, resolution, and format for eGo, eTraGo and eDisGo.
+  logo: egon-data_logo.svg
+  link: https://egon-data.readthedocs.io
+  links:
+  - link: https://github.com/openego/egon-data
+    name: GitHub
+    icon: GitHub_icon.svg
+  - link: https://egon-data.readthedocs.io
     name: "Docs"
     icon: noun_Book_3324965.svg

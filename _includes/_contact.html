@@ -1,0 +1,18 @@
+<div class="columns">
+  <div class="partners-grid">
+    {% for partner in site.data._partners %}
+      <div class="partner__item">
+        <div class="partner__item-upper">
+          <div class="partner__item-name">
+            <a href="{{ partner.url }}" target="_blank"><h3>{{ partner.name }}</h3></a>
+          </div>
+          {% if partner.logo %}
+          <div class="partner__item-img">
+            <a href="{{ partner.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ partner.logo }}" alt="{{ partner.name }} Logo"></a>
+          </div>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

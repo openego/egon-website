@@ -1,7 +1,7 @@
 ---
 layout: startpage
-title: "Partners"
-permalink: "/partners/"
+title: "Consortium"
+permalink: "/consortium/"
 header: no
 ---
 

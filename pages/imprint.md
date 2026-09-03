@@ -14,7 +14,7 @@ Tel: +49 (0)30 1208 434 0<br>
 Email: info(ät)rl-institut.de
 
 <span class="imprint__heading">Geschäftsführerin</span>
-Dr. Kathrin Goldammer
+Prof. Dr. Kathrin Goldammer
 
 <span class="imprint__heading">Registergericht</span>
 Handelsregister Berlin – HRB 124659 B
@@ -38,7 +38,7 @@ Für die Inhalte und Richtigkeit der bereitgestellten Informationen ist der jewe
 
 ### 3. Urheberrecht/Leistungsschutzrecht
 
-Die auf dieser Webseite veröffentlichten Inhalte, Werke und bereitgestellten Informationen unterliegen dem deutschen Urheberrecht und Leistungsschutzrecht. Jede Art der Vervielfältigung, Bearbeitung, Verbreitung, Einspeicherung und jede Art der Verwertung ist mit Ausnahme der Partnerlogos und unter Einhaltung der Regelungen der [Creative Commons Namensnennungslizenz 4.0 (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/) gestattet.
+Die auf dieser Webseite veröffentlichten Inhalte, Werke und bereitgestellten Informationen unterliegen dem deutschen Urheberrecht und Leistungsschutzrecht. Jede Art der Vervielfältigung, Bearbeitung, Verbreitung, Einspeicherung und jede Art der Verwertung ist mit Ausnahme der Partnerlogos und unter Einhaltung der Regelungen der <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Namensnennungslizenz 4.0 (CC-BY-4.0)</a> gestattet.
 
 ### 4. Datenschutz
 
@@ -51,7 +51,7 @@ Der Verwendung der Kontaktdaten durch Dritte zur gewerblichen Nutzung wird ausdr
 
 Der Anbieter behält sich rechtliche Schritte für den Fall der unverlangten Zusendung von Werbeinformationen, z. B. durch Spam-Mails, vor.
 
-<p class="imprint__small">We thank <a href="https://www.mustervorlage.net/">mustervorlage.net</a> for providing a sample disclaimer.</p>
+<p class="imprint__small">We thank <a href="https://www.mustervorlage.net/" target="_blank">mustervorlage.net</a> for providing a sample disclaimer.</p>
 
 
 

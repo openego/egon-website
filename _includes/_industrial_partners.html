@@ -1,0 +1,26 @@
+{% assign categories = "Public Administration|Grid operators and Municipal Utilities|Project Developers|Interest Groups, Research & Networks" | split: "|" %}
+
+<div class="columns">
+  {% for category in categories %}
+    {% assign partners_in_category = site.data._industrial_partners | where: "category", category %}
+    {% if partners_in_category.size > 0 %}
+      <h3 class="network-contact__section-label network-contact__category-label">{{ category }}</h3>
+      <div class="partners-grid">
+        {% for partner in partners_in_category %}
+          <div class="partner__item">
+            <div class="partner__item-upper">
+              <div class="partner__item-name">
+                <a href="{{ partner.url }}" target="_blank"><h3>{{ partner.name }}</h3></a>
+              </div>
+              {% if partner.logo %}
+              <div class="partner__item-img">
+                <a href="{{ partner.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ partner.logo }}" alt="{{ partner.name }} Logo"></a>
+              </div>
+              {% endif %}
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
