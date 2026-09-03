@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'eGo<sup>n</sup>'
+title: 'reGo<sup>n</sup>'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'energy Grid optimization of n flexibilities'
@@ -17,7 +17,7 @@ slogan: 'energy Grid optimization of n flexibilities'
 description: 'Open, inter-grid-level and cross-sectoral planning instrument for the optimal use and expansion of the electrical grid and flexibility options in Germany'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Created with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/" target="_blank">Feeling Responsive</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -38,7 +38,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo_egon_top_nav.svg"
+logo: "logo_regon_top_nav.svg"
 
 # Plugins
 plugins:

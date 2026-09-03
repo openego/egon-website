@@ -23,6 +23,7 @@ section.row.row__wrap {
 .hero {
     display: flex;
     flex-wrap: wrap;
+    align-items: center;
 }
 
 .hero h1.hero__header {
@@ -56,28 +57,29 @@ section.row.row__wrap {
     text-align: left;
 }
 .hero .hero__img img {
-    max-height: 18rem;
+    max-height: 20rem;
 }
 .hero .hero__img {
     text-align: center;
     padding-top: 1rem;
     padding-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
 }
-.hero .hero__btn {
-    padding-top: 0;
-    padding-bottom: 2rem;
+
+/* Match height between left and right hero columns */
+.hero__left, .hero__right {
+    display: flex;
+    flex-direction: column;
+    min-height: 400px;
 }
-.hero .button {
-    display: block;
-    width: 12rem;
-    padding-left: 0;
-    padding-right: 0;
-    margin-left: auto;
-    margin-right: auto;
+
+.hero__right.hero__img {
+    justify-content: center;
 }
-.hero .button.hero__cta {
-    margin-bottom: .75rem;
-}
+
 
 @media only screen and (min-width: 641px) {
     .hero h1.hero__header {
@@ -324,11 +326,9 @@ section.row.tools {
 
 @media only screen and (min-width: 641px) {
     section.row.row__wrap.tools {
-        margin-top: 10rem;
+        margin-top: 3rem;
         padding-bottom: 3rem;
         max-width: 82rem;
-        box-shadow: 0px 4px 16px rgba(31, 86, 125, 0.1);
-        border-radius: 8px;
     }
 }
 
@@ -343,63 +343,34 @@ section.row.tools {
     }
 }
 
-section.row.workshops {
+section.row.previous-projects {
     margin-top: 2rem;
-    .workshops__header {
+    .previous-projects__header {
         text-align: center;
-        margin-bottom: .5rem;
     }
-    .workshops__item {
-        font-family: iconfont;
+    .previous-projects__text {
+        padding-top: 1.5rem;
     }
-    .workshops__item-date {
-        background-color: #F9F9FA;
-        color: #1F567D;
-    }
-    .workshops__item-text {
-        box-shadow: 0px 4px 16px rgba(31, 86, 125, 0.1);
-        border-radius: 8px;
-        height: 100%;
-        margin: 1rem 0;
-        font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
-    }
-    .workshops__item-date {
-        padding: .5rem 1rem;
-        font-weight: 700;
-    }
-    .workshops__item-text p {
-        padding: 1rem 1rem;
+    .previous-projects__text p {
+        text-align: left;
     }
 }
 
-@media only screen and (min-width: 641px) {
-    section.row.workshops {
-        margin-top: 5rem;
-        .workshops__header {
-            margin-bottom: 1rem;
-        }
-        .workshops__row {
-            display: flex;
-        }
-        .workshops__item {
-            margin-bottom: 2rem;
-        }
-        .workshops__item-text {
-            font-size: 1.15rem;
-            line-height: 2rem;
-            padding-bottom: 0;
-            margin: 1rem;
-        }
-        .workshops__item-text p {
-            padding: 1rem 1rem 0;
-        }
-    }
+/* Force buttons in previous-projects section to display horizontally too */
+section.previous-projects .hero__btns {
+    font-size: 0; /* Remove whitespace between inline-block elements */
 }
 
-@media only screen and (min-width: 1024px) {
-    section.row.workshops {
-        margin-top: 8rem;
-    }
+section.previous-projects .hero__btns .button,
+section.previous-projects .hero__btns a.button {
+    display: inline-block !important;
+    width: auto !important;
+    min-width: 12rem !important;
+    font-size: 1rem; /* Reset font-size */
+    margin-right: 1rem !important;
+    margin-bottom: 0.75rem !important;
+    margin-left: 0 !important;
+    vertical-align: top !important;
 }
 
 section.row.funding {
@@ -424,7 +395,7 @@ section.row.funding {
 
 @media only screen and (min-width: 641px) {
     section.row.funding {
-        margin-top: 5rem;
+        margin-top: 3rem;
         .funding__text p {
             max-width: 26rem;
             margin-left: auto;
@@ -436,6 +407,26 @@ section.row.funding {
 
 @media only screen and (min-width: 1025px) {
     section.row.funding {
-        margin-top: 8rem;
+        margin-top: 5rem;
     }
+}
+
+.hero__btns {
+    order: 3;
+    flex-basis: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1.5rem;
+}
+
+.hero__btns a.button,
+.hero__btns .button {
+    width: auto;
+    min-width: 9rem;
+    font-size: 0.85rem;
+    margin: 0;
+    padding: 0.75rem 0.5rem;
 }

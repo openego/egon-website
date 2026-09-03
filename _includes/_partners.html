@@ -1,20 +1,21 @@
 <div class="partners" data-equalizer>
-  <div class="partners__text">
-    The consortium of partners from the previous project <a href="https://openegoproject.wordpress.com/partners/" title="open_eGo">open_eGo</a> is extended by the Fraunhofer IEE.
-  </div>
-  {% for partner in site.data._partners %}
+  {% assign consortium_partners = site.data._partners | where_exp: "p", "p.name != 'Fraunhofer Institute for Energy Economics and Energy System Technology' and p.name != 'University of Magdeburg'" %}
+  {% for partner in consortium_partners %}
     <div class="partners__item" data-equalizer-watch>
       <div class="partners__upper--helper"></div>
       <div class="partners__upper">
-        <h2 class="partners__name"><a href="{{ partner.url }}">{{ partner.name }}</a></h2>
+        <h2 class="partners__name"><a href="{{ partner.url }}" target="_blank">{{ partner.name }}</a></h2>
         <div class="partners__logo">
-          <img src="{{ site.url }}{{ site.baseurl }}/images/{{ partner.logo }}" alt="{{ partner.name }}">
+          <a href="{{ partner.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ partner.logo }}" alt="{{ partner.name }}"></a>
         </div>
       </div>
       <div class="partners__bottom">
-        <p class="partners__text">{{ partner.description | markdownify }}</p>
+        {% if partner.description %}
+          <p class="partners__text">{{ partner.description | markdownify }}</p>
+        {% endif %}
+        <p class="partners__projects"><strong>Projects:</strong> {{partner.project}}</p>
         <div class="partners__link">
-          <a href="{{ partner.url }}">Visit website</a>
+          <a href="{{ partner.url }}" target="_blank">Visit website</a>
         </div>
       </div>
     </div>

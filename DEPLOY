@@ -18,7 +18,7 @@ esac
 echo "Building and serving site on ${REMOTE_TARGET}\n"
 
 # Build it
-docker run --rm -p 4000:4000 --volume=${PWD}/vendor/bundle:/usr/local/bundle --volume=${PWD}:/srv/jekyll -it jekyll/jekyll:3.8 jekyll build --config ${CONFIG_FILE}
+docker run --rm -p 4000:4000 --volume="${PWD}/vendor/bundle:/usr/local/bundle" --volume="${PWD}:/srv/jekyll" -it jekyll/jekyll:3.8 jekyll build --config "${CONFIG_FILE}"
 
 # Test if jekyll build was succesfull
 result=$?

@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'eGo<sup>n</sup>'
+title: 'reGo<sup>n</sup>'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'energy Grid optimization of n flexibilities'
@@ -38,7 +38,7 @@ urlimg: 'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo_egon_top_nav.svg"
+logo: "logo_regon_top_nav.svg"
 
 # Plugins
 plugins:

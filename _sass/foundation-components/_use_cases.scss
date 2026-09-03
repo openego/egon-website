@@ -1,0 +1,304 @@
+$use_cases-card-helper-height: 13rem;
+$use_cases-card-margin-desktop: .75rem;
+
+@mixin section-text {
+  text-align: center;
+
+  @media only screen and (min-width: 641px) {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+
+  @media only screen and (min-width: 1025px) {
+    padding-top: 0;
+    margin-bottom: 1rem;
+    max-width: 45rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.use-cases {
+    
+  .use-cases__header {
+
+    @media only screen and (min-width: 641px) {
+      padding-bottom: 2rem;
+    }
+
+    @media only screen and (min-width: 1025px) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding-bottom: 3rem;
+    }
+  }
+
+  .use-cases__subheading {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    line-height: 1.75rem;
+    text-align: left;
+
+    @media only screen and (min-width: 641px) {
+      line-height: 1.75rem;
+    }
+
+    @media only screen and (min-width: 1025px) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin-top: 4rem;
+      margin-bottom: 2rem;
+      padding-right: 1rem;
+      padding-left: 1rem;
+      border-left: 1px solid #dadada;
+      line-height: 2rem;
+    }
+  }
+
+  .use-cases__items {
+    padding-top: 4rem;
+
+    @media only screen and (min-width: 641px) {
+      padding-top: 0;
+      padding-bottom: 2rem;
+    }
+    @media only screen and (min-width: 1025px) {
+      padding-bottom: 3rem;
+      max-width: 95rem !important;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  .use-cases__items-heading {
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+
+  .use-cases__details {
+
+    // Anchor scroll target styling
+    [id^="usecase"] {
+      scroll-margin-top: 2rem;
+      padding-top: 2rem;
+      margin-bottom: 3rem;
+      border-bottom: 1px solid #e0e0e0;
+      
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+  }
+
+  a {
+    color: #1F567D;
+    
+    // Smooth scrolling for anchor links
+    &[href^="#"] {
+      scroll-behavior: smooth;
+    }
+  }
+
+  // Global smooth scrolling
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+// Use cases grid
+.use-cases-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  padding: 0 1rem;
+
+  @media only screen and (min-width: 641px) {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    padding: 0 1.5rem;
+  }
+
+  @media only screen and (min-width: 1025px) {
+    grid-template-columns: repeat(5, 1fr);
+    gap: 0.75rem;
+    padding: 0 2rem;
+  }
+}
+
+.use-cases__items .use_cases__items .use_cases__item {
+
+  @media only screen and (max-width: 640px) {
+    box-shadow: 0px 4px 16px rgba(31,86,125,0.1);
+    border-radius: 8px;
+    padding: 0 1rem 1rem;
+    margin-top: .5rem;
+    margin-bottom: .5rem;
+  }
+
+  @media only screen and (min-width: 641px) {
+    padding-left: .75rem;
+    padding-right: .75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  @media only screen and (min-width: 1025px) {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
+
+.use_cases__item {
+  box-shadow: 0px 4px 16px rgba(31,86,125,0.1);
+  border-radius: 8px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  padding: 1rem;
+  height: 100%;
+
+  @media only screen and (min-width: 641px) {
+    padding: 1.5rem;
+  }
+
+  @media only screen and (min-width: 1025px) {
+    padding: 1.25rem;
+  }
+}
+
+.use_cases__name {
+  text-align: center;
+
+  @media only screen and (max-width: 640px) {
+    margin-bottom: 1.5rem;
+  }
+
+  a {
+    display: block;
+  }
+}
+
+.use_cases__number {
+  display: block;
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1;
+  color: #9a9a9a;
+}
+
+.use_cases__title {
+  display: block;
+  margin-top: .25rem;
+}
+
+.use_cases__upper {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.use_cases__bottom {
+  margin-top: auto;
+}
+
+.use_cases__link {
+  margin-top: 1rem;
+}
+
+.use_cases__logo {
+
+  @media only screen and (min-width: 1025px) {
+    display: flex;
+    flex: 1;
+    align-items: center;
+  }
+
+  img {
+    height: 7rem;
+    display: inline;
+    padding-top: 1rem;
+
+    @media only screen and (min-width: 1025px) {
+      padding-top: 0;
+    }
+  }
+}
+
+  .use_cases__heading {
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+
+// Use case detail sections
+.use-cases__detail {
+  padding: 2rem 0;
+  
+  // Force all text elements to have the same styling
+  p, li, div {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    font-weight: normal !important;
+    font-family: inherit !important;
+  }
+
+  .use-cases__detail-heading h3 {
+    color: #1F567D;
+    margin-bottom: 1rem;
+    font-weight: 600;
+  }
+
+  .use-cases__detail-content {
+    margin-bottom: 1.5rem;
+    font-size: 1rem;
+    line-height: 1.6;
+
+    p, li {
+      font-size: 1rem !important;
+      line-height: 1.6 !important;
+      font-weight: normal !important;
+    }
+    
+    ul {
+      margin-top: 0.5rem;
+      
+      li {
+        font-size: 1rem !important;
+        line-height: 1.6 !important;
+        font-weight: normal !important;
+      }
+    }
+  }
+  
+  .use-cases__detail-partners {
+    margin-bottom: 1.5rem;
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    font-weight: normal !important;
+  }
+
+  .use-cases__detail-lead {
+    margin-bottom: 1.5rem;
+  }
+}
+
+// Use case icons
+.use_case-icon {
+  max-height: 2rem;
+  max-width: 2rem;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+
+// Target highlighting when navigated to via anchor link
+:target {
+  animation: highlight 2s ease-in-out;
+  
+  @keyframes highlight {
+    0% { background-color: rgba(31, 86, 125, 0.1); }
+    100% { background-color: transparent; }
+  }
+}

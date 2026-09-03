@@ -1,0 +1,37 @@
+- name: Kreis Soest
+  url: https://www.kreis-soest.de/
+  category: Public Administration
+- name: Kreis Schleswig-Flensburg
+  url: https://www.schleswig-flensburg.de/
+  category: Public Administration
+- name: Stadtwerke Flensburg
+  url: https://www.stadtwerke-flensburg.de/
+  category: Grid operators and Municipal Utilities
+- name: Berliner Stadtwerke
+  url: https://berlinerstadtwerke.de/
+  category: Grid operators and Municipal Utilities
+- name: Stadtwerke Ulm/Neu-Ulm Netze (DSO)
+  url: https://www.ulm-netze.de/
+  category: Grid operators and Municipal Utilities
+- name: 50Hertz Transmission (TSO)
+  url: https://www.50hertz.com/
+  category: Grid operators and Municipal Utilities
+- name: LEW Verteilnetz (DSO)
+  url: https://www.lew-verteilnetz.de/
+  category: Grid operators and Municipal Utilities
+- name: GP Joule
+  url: https://www.gp-joule.com/
+  category: Project Developers
+- name: ARGE Netz
+  url: https://www.arge-netz.de/
+  category: Project Developers
+- name: Renewables Grid Initiative
+  logo: Partnerlogo_RGI.png
+  url: https://renewables-grid.eu/
+  category: Interest Groups, Research & Networks
+- name: EKSH (Energy and Climate Protection Schleswig-Holstein)
+  url: https://www.eksh.org/
+  category: Interest Groups, Research & Networks
+- name: efzn (Energy Research Centre of Lower Saxony)
+  url: https://www.efzn.de/
+  category: Interest Groups, Research & Networks

@@ -17,7 +17,11 @@ sitemap:
 @import "foundation-components/header";
 @import "foundation-components/tools-data";
 @import "foundation-components/top-bar";
+@import "foundation-components/type";
 @import "foundation-components/partner";
+@import "foundation-components/use_cases";
+@import "foundation-components/network_contact";
+@import "foundation-components/publications";
 @import "foundation-components/accordion";
 @import "foundation-components/alert-boxes";
 @import "foundation-components/breadcrumbs";
@@ -38,13 +42,10 @@ sitemap:
 @import "foundation-components/sub-nav";
 @import "foundation-components/tables";
 @import "foundation-components/thumbs";
-@import "foundation-components/top-bar";
-@import "foundation-components/type";
 @import "foundation-components/visibility";
 
 @import "06_typography.scss";
 @import "07_layout.scss";
-@import "foundation-components/grid";
 @import "09_elements.scss";
 
 {% if site.asciidoctor-enabled == true %}
