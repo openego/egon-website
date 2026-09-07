@@ -35,6 +35,7 @@ header: no
     </div>
 
     <h3 class="network-contact__subsection-heading">Scientific Partners</h3>
+    <p class="network-contact__subheading-section">Scientific partners across reGo<sup>n</sup> and its predecessor projects open_eGo and eGo<sup>n</sup></p>
     {% include _contact.html %}
 
     <h3 class="network-contact__subsection-heading">Practice Partners</h3>
