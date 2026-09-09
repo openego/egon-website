@@ -1,21 +1,21 @@
 - name: Flensburg University of Applied Sciences
   logo: Partnerlogo_HSFL.svg
-  description: The Flensburg University of Applied Sciences (FUAS), through its Center for Sustainable Energy Systems (ZNES), has led all projects. Content-wise, FUAS contributes expertise in the modeling and planning of sub-transmission and transmission grids, as well as in data processing for energy system modeling.
+  description: The Flensburg University of Applied Sciences (FUAS), through its Centre for Sustainable Energy Systems (ZNES), has led all projects. Content-wise, FUAS contributes expertise in the modelling and planning of sub-transmission and transmission grids, as well as in data processing for energy system modelling.
   url: https://hs-flensburg.de/forschung/fue/forschungsprojekte/analyse-lokaler-und-regionaler-energienetze-im-zusammenhang-des
   project: open_eGo, eGo<sup>n</sup>, reGo<sup>n</sup>
 - name: Reiner Lemoine Institut
   logo: Partnerlogo_RLI.svg
-  description: Reiner Lemoine Institut (RLI) contributes its competence in planning of distribution grids, modeling of synthetic distribution grid topologies, and (geo-)data processing to reGo<sup>n</sup>. In this project RLI leads case studies that will be conducted with the developed tools and is responsible for the development of the sector-coupled distribution planning tool eDisGo.
+  description: Reiner Lemoine Institut (RLI) contributes its competence in planning of distribution grids, modelling of synthetic distribution grid topologies, and (geo-)data processing to reGo<sup>n</sup>. In this project RLI leads case studies that will be conducted with the developed tools and is responsible for the development of the sector-coupled distribution planning tool eDisGo.
   url: https://reiner-lemoine-institut.de/
   project: open_eGo, eGo<sup>n</sup>, reGo<sup>n</sup>
 - name: Europa-Universität Flensburg
   logo: Partnerlogo_EUF.png
   description: The Europa-Universität Flensburg contributes expertise in data-driven energy system development with a focus on the heat sector. It supports the further development of grid calculation tools, the integration of methods across different grid levels, and approaches for reducing model complexity.
-  url: https://www.uni-flensburg.de/
+  url: https://www.uni-flensburg.de/eum
   project: open_eGo, eGo<sup>n</sup>, reGo<sup>n</sup>
 - name: DLR Institute of Networked Energy Systems
   logo: Partnerlogo_DLR.svg
-  description: "The DLR Institute of Networked Energy Systems, Department of Energy Systems Analysis, develops open-source tools and methods for cross-sectoral energy system planning, with strong expertise in the open modelling of power and gas grid infrastructures. In eGo<sup>n</sup>, DLR leads the use case on the resilience of future energy systems: deriving electricity and heat demand time series from given weather years including climate-related adjustments, and quantifying their effects on the energy system with a focus on the electricity grid. DLR further contributes to the representation of the gas and hydrogen sector in the data model, and develops the project's stakeholder-oriented tutorials and actor network."
+  description: "The DLR Institute of Networked Energy Systems, Department of Energy Systems Analysis, develops open-source tools and methods for cross-sectoral energy system planning, with strong expertise in the open modelling of power and gas grid infrastructures. In reGo<sup>n</sup>, DLR leads the use case on the resilience of future energy systems: deriving electricity and heat demand time series from given weather years including climate-related adjustments, and quantifying their effects on the energy system with a focus on the electricity grid. DLR further contributes to the representation of the gas and hydrogen sector in the data model, and develops the project's stakeholder-oriented tutorials and actor network."
   url: https://www.dlr.de/en/ve
   project: open_eGo, eGo<sup>n</sup>, reGo<sup>n</sup>
 - name: Technische Hochschule Ulm

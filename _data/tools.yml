@@ -10,7 +10,7 @@
     name: "Docs"
     icon: noun_Book_3324965.svg
 - name: eGo
-  description: Enabling the <strong>system-wide</strong> optimization of flexibility options and grid expansion by linking transmission grid planning of [eTraGo](https://etrago.readthedocs.io) with distribution grid planning of [eDisGo](https://edisgo.readthedocs.io).
+  description: Enabling the <strong>system-wide</strong> optimisation of flexibility options and grid expansion by linking transmission grid planning of [eTraGo](https://etrago.readthedocs.io) with distribution grid planning of [eDisGo](https://edisgo.readthedocs.io).
   logo: Toollogo_eGo3.svg
   link: https://openego.readthedocs.io
   links: 

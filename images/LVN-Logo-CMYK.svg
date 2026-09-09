@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="902.29865"
+   height="370.67599"
+   viewBox="0 0 902.29865 370.67599"
+   sodipodi:docname="LVN-Logo-CMYK.pdf"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,0 H 676.724 V 278.007 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="LVN-Logo-CMYK"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,370.676)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(604.6897,132.3855)">
+          <path
+             d="M 0,0 V 145.622 H 72.035 V -126.936 H -3.889 L -94.618,17.91 v -144.846 h -72.026 v 272.558 h 75.923 z m -258.925,145.622 h 77.096 L -256.2,-80.209 c -10.52,-31.93 -30.766,-52.177 -65.421,-52.177 -34.647,0 -54.901,20.247 -65.412,52.177 l -73.984,225.831 h 79.045 L -321.621,-56.85 Z M -532.655,-60.74 h 114.476 v -66.197 H -604.69 v 272.559 h 72.035 z"
+             style="fill:#1969bc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

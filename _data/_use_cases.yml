@@ -2,12 +2,12 @@
   title: Regional Planning
   id: usecase1
   short: Supporting regional stakeholders in identifying suitable transformation paths.
-  description: The shift from centralized fossil fuel power plants to decentralized renewable energy sources is diversifying the stakeholder landscape, with municipal and district-level actors playing an increasingly important role. Regional differences in energy demand and generation patterns mean that transformation requirements vary significantly across areas, making sound knowledge of future regional energy system developments essential for forward-looking planning. We provide data models and tools that <strong>enable local stakeholders to analyse their regional energy system</strong> in the context of the broader supra-regional system, identify suitable transformation paths, and derive concrete planning recommendations.
+  description: The shift from centralised fossil fuel power plants to decentralised renewable energy sources is diversifying the stakeholder landscape, with municipal and district-level actors playing an increasingly important role. Regional differences in energy demand and generation patterns mean that transformation requirements vary significantly across areas, making sound knowledge of future regional energy system developments essential for forward-looking planning. We provide data models and tools that <strong>enable local stakeholders to analyse their regional energy system</strong> in the context of the broader supra-regional system, identify suitable transformation paths, and derive concrete planning recommendations.
   research_question:
     - "How is local demand for electricity (and hydrogen) developing?"
     - "What costs and expansion requirements for grids and storage facilities will this lead to?"
-    - "How will large-scale consumers (e.g. data centers, decarbonization plants) influence costs and expansion requirements?"
-    - "How can flexibilization of new consumers efficiently reduce costs and expansion requirements?"
+    - "How will large-scale consumers (e.g. data centres, decarbonisation plants) influence costs and expansion requirements?"
+    - "How can flexibilisation of new consumers efficiently reduce costs and expansion requirements?"
   industrial_partners:
     - Kreis Soest
     - Kreis Schleswig-Flensburg
@@ -18,14 +18,14 @@
   title: Electricity and Heating Transition
   id: usecase2
   short: Enabling municipalities to holistically plan heat supply decarbonisation.
-  description: "Decarbonizing heat supply poses significant challenges for municipal energy suppliers: heating grids require climate-neutral central energy sources, while the electrification of heat and transport creates new demands and consumption patterns in distribution grids. At the same time, growing decentralized generation is reshaping the interaction between distribution and transmission grids. Municipal energy suppliers typically have detailed knowledge of their own grid area but lack visibility into overlying and neighbouring systems. Through cross-sectoral modelling of electricity, heat, and gas, we <strong>provide municipal stakeholders with the tools to holistically evaluate heat supply strategies</strong>, identify flexibility potential, and plan infrastructure with full awareness of the broader system context."
+  description: "Decarbonising heat supply poses significant challenges for municipal energy suppliers: heating grids require climate-neutral central energy sources, while the electrification of heat and transport creates new demands and consumption patterns in distribution grids. At the same time, growing decentralised generation is reshaping the interaction between distribution and transmission grids. Municipal energy suppliers typically have detailed knowledge of their own grid area but lack visibility into overlying and neighbouring systems. Through cross-sectoral modelling of electricity, heat, and gas, we <strong>provide municipal stakeholders with the tools to holistically evaluate heat supply strategies</strong>, identify flexibility potential, and plan infrastructure with full awareness of the broader system context."
   research_question:
   - "How is local electricity and heat generation developing?"
   - "What expansion requirements will arise with future electrified heat and power generation plants on regional and supra-regional power grids?"
   - "How can flexible use of electricity and heating reduce  expansion requirements?"
   industrial_partners:
     - Stadtwerke Flensburg
-    - Berliner Stadtwerke
+    - Berliner Stadtwerke KommunalPartner GmbH
     - GP Joule
   scientific_partners:
     - Europa-Universität Flensburg
@@ -64,7 +64,7 @@
     - Flensburg University of Applied Sciences
     - Europa-Universität Flensburg
 - name: Use Case 5
-  title: Operating concepts for future medium- and low-voltage grids
+  title: Operating Concepts for Future Medium- and Low-Voltage Grids
   id: usecase5
   short: Preparing DSOs for secure grid operation and expansion cost reduction.
   description: This use case analyses future operating concepts for medium- and low-voltage distribution grids with high shares of heat pumps, electric vehicles, battery storage, and distributed renewable generation. The focus is on <strong>comparing conventional grid reinforcement with control-based and flexibility-oriented operating strategies</strong>. Using the SWU/THU test grid area in Senden, Hittistetten as a case study, we assess how different strategies affect grid security, reinforcement needs, operating interventions, and overall costs. The analysed variants include a conventional grid expansion approach, an idealised flexibility-first approach, and a control-oriented scenario that investigates how far grid reinforcement can be deferred through targeted operational measures like §14a EnWG. Rather than assuming that flexibility can fully replace grid expansion, the use case identifies where no measures are required, where operational control is sufficient, and where physical grid reinforcement remains necessary.

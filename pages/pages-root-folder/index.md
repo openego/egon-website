@@ -30,7 +30,7 @@ European energy system</span>
         throughout the energy transformation.</p>
 
       <p class="hero__subheader">
-        Therefore, we developed a comprehensive suite of open-source and open-data tools for <strong> modeling and planning electrical grids across all grid levels</strong> through the projects eGo<sup>n</sup> and <a href="https://openegoproject.wordpress.com" title="open_eGo">open_eGo</a>. The project reGo<sup>n</sup> aims to bring those developments into <strong>real-world practice</strong>. In <strong>collaboration with</strong> a range of <strong>practical 
+        Therefore, we developed a comprehensive suite of open-source and open-data tools for <strong> modelling and planning electrical grids across all grid levels</strong> through the projects eGo<sup>n</sup> and <a href="https://openegoproject.wordpress.com" title="open_eGo">open_eGo</a>. The project reGo<sup>n</sup> aims to bring those developments into <strong>real-world practice</strong>. In <strong>collaboration with</strong> a range of <strong>practical 
         partners</strong>, we're applying our software to <strong>five different use cases</strong> and actively <strong>fostering exchange</strong> between stakeholders
         <strong>within our network</strong>.</p>
     </div>
@@ -54,7 +54,7 @@ European energy system</span>
           <div class="tasks__item-text">
             <h3 class="tasks__item-title">Advancing Our Tools</h3>
            We continue to refine our tools by further integrating flexibility options and emerging electrical demands. 
-            Our focus is on modeling the physical interactions between different grid levels, as well as the 
+            Our focus is on modelling the physical interactions between different grid levels, as well as the 
             coordination between transmission system operators (TSOs) and distribution system operators (DSOs).
         </div>
         </div>
@@ -62,8 +62,8 @@ European energy system</span>
           <div class="tasks__item-text">
             <h3 class="tasks__item-title">Refining Our Tools in Practice</h3>
             We improve the usability of our tools by both adapting them to the specific needs of five different use 
-            cases, such as cross-level flexibility utilization and operational strategies in the medium- and low-voltage grids, 
-            and applying them to analyze these cases in detail.
+            cases, such as cross-level flexibility utilisation and operational strategies in the medium- and low-voltage grids, 
+            and applying them to analyse these cases in detail.
           </div>
         </div>
       </div>
@@ -101,12 +101,12 @@ European energy system</span>
         low-voltage distribution grids, and enables the analysis of grid expansion scenarios, including flexibility 
         options such as battery storage and redispatch. In the follow-up project eGo<sup>n</sup>, the toolbox was extended to 
         include the sectors heat, gas, and e-mobility, making cross-sectoral energy system analysis possible. 
-        The projects were funded under the Funding Initiative "Optimization of Power Supply Systems" and 7th 
+        The projects were funded under the Funding Initiative "Optimisation of Power Supply Systems" and 7th 
         Energy Research Programme by the German Federal Ministry for Economic Affairs and Energy and the 
         German Federal Ministry for Economic Affairs and Climate Action, respectively.</p>
     </div>
     <div class="previous-projects hero__btns">
-      <a href="/partners/" class="button hero__cta">SEE OUR (PREVIOUS) PARTNERS</a>
+      <a href="/partners/" class="button hero__cta">SEE OUR PARTNERS</a>
       <a href="https://openegoproject.wordpress.com" class="button">DETAILS ON open_eGo</a>
     </div>
   </section>

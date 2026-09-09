@@ -4,21 +4,23 @@
 - name: Kreis Schleswig-Flensburg
   url: https://www.schleswig-flensburg.de/
   category: Public Administration
+  logo: Kreis-SL-FL_Wappen-mit-Schrift.svg
 - name: Stadtwerke Flensburg
   url: https://www.stadtwerke-flensburg.de/
-  category: Grid operators and Municipal Utilities
-- name: Berliner Stadtwerke
+  category: Grid Operators and Municipal Utilities
+- name: Berliner Stadtwerke KommunalPartner GmbH
   url: https://berlinerstadtwerke.de/
-  category: Grid operators and Municipal Utilities
+  category: Grid Operators and Municipal Utilities
 - name: Stadtwerke Ulm/Neu-Ulm Netze (DSO)
   url: https://www.ulm-netze.de/
-  category: Grid operators and Municipal Utilities
+  category: Grid Operators and Municipal Utilities
 - name: 50Hertz Transmission (TSO)
   url: https://www.50hertz.com/
-  category: Grid operators and Municipal Utilities
+  category: Grid Operators and Municipal Utilities
 - name: LEW Verteilnetz (DSO)
   url: https://www.lew-verteilnetz.de/
-  category: Grid operators and Municipal Utilities
+  category: Grid Operators and Municipal Utilities
+  logo: LVN-Logo-CMYK.svg
 - name: GP Joule
   url: https://www.gp-joule.com/
   category: Project Developers
